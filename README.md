@@ -1,2 +1,2 @@
-# dynamic-data-from-google-sheets
+# react-google-sheets-tabletop-example
 Created with CodeSandbox
